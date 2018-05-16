@@ -6,6 +6,6 @@ VALUES("Rose", "Tyler", "Earth"),
       ("Leela", null, "Unspecified"),
       ("Romana", null, "Gallifrey"),
       ("Clara", "Oswald", "Earth"),
-      ("Adric", "Null", "Alzarius"),
+      ("Adric", null, "Alzarius"),
       ("Susan", "Foreman", "Gallifrey");
       
