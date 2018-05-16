@@ -17,7 +17,3 @@
 4. type `npm start` to start the application
 5. Navigate to `http://localhost:3000` to view the application
 
-
-
-
-https://github.com/m081779/node-mysql-table.git
